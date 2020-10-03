@@ -7,4 +7,5 @@
     echo"Fifth Day of the week is $week[4]<br>";
     echo"Sixth Day of the week is $week[5]<br>";
     echo"Seventh Day of the week is $week[6]<br>";
+
 ?>
