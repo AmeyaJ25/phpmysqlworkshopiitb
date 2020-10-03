@@ -31,22 +31,22 @@
 <div id="demo1">
     <form action="q32_ specialvariables.php"  method="post">
     <span>Enter your Name:</span>
-        <input type="text" name="name" id="">
+        <input type="text" name="name" >
         <br>
         <span>Enter marks in subject 1</span>
-        <input type="number" name="s1" id="">
+        <input type="number" name="s1" >
         <br>
         <span>Enter marks in subject 2</span>
-        <input type="number" name="s2" id="">
+        <input type="number" name="s2" >
         <br>
         <span>Enter marks in subject 3</span>
-        <input type="number" name="s3" id="">
+        <input type="number" name="s3" >
         <br>
         <span>Enter marks in subject 4</span>
-        <input type="number" name="s4" id="">
+        <input type="number" name="s4" >
         <br>
         <span>Enter marks in subject 5</span>
-        <input type="number" name="s5" id="">
+        <input type="number" name="s5" >
         <br>
         <input type="submit" value="Submit" id="demo">
     </form>
