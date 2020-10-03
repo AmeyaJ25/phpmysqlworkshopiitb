@@ -35,4 +35,5 @@
         default:
             echo"It is a consonant";
     }
+
 ?>
