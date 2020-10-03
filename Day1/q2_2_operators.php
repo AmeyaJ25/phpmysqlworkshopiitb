@@ -7,4 +7,5 @@
         echo"Both numbers are equal";
     else
         echo"$num2 is bigger number";
+
 ?>
