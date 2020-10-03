@@ -5,4 +5,5 @@
     echo"Subtraction of two numbers is ".($fnum-$snum)."<br>";
     echo"Multiplication of two numbers is ".($fnum*$snum)."<br>";
     echo"Division of two numbers is ".($fnum/$snum)."<br>";
+
 ?>
