@@ -31,7 +31,7 @@
 </head>
 <body>
 <div id="demo1">
-<form  method='get'>
+<form action="q6_1_special_variables_html.php" method='get'>
     <span>Enter side 1</span>
     <input type="number" name="first" >
     <br>
