@@ -35,7 +35,7 @@ function send_mail($toemail,$subject,$message)
 
     $mail->IsHTML(true);
     $mail->AddAddress($toemail);
-    $mail->SetFrom("joshiamesu18ce@student.mes.ac.in", "Ameya Joshi");
+    $mail->SetFrom("your-mail@gmail.com", "Ameya J");
     $mail->Subject = $subject;
     $mail->Body = $message;
     
