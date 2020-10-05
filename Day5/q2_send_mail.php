@@ -30,8 +30,8 @@ function send_mail($toemail,$subject,$message)
     $mail->SMTPSecure = "tls";
     $mail->Port       = 587;
     $mail->Host       = "smtp.gmail.com";
-    $mail->Username   = "joshiamesu18ce@student.mes.ac.in";
-    $mail->Password   = "*********";
+    $mail->Username   = "your-mail@gmail.com";
+    $mail->Password   = "password";
 
     $mail->IsHTML(true);
     $mail->AddAddress($toemail);
